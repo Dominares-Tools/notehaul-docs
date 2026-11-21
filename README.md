@@ -8,7 +8,7 @@ notehaul turns an Apple Notes folder into synced, safe-to-publish data for any e
 
 ## Get it
 
-Buy notehaul at https://dominares.org/tools/notehaul: one payment of $49, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the notehaul Python package and command, receiver examples for FastAPI, Flask and a Cloudflare Worker, the iPhone Shortcut generator and the full test suite.
+Buy notehaul at https://dominares.org/tools/notehaul: one payment of $49, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the notehaul Python package and command, receiver examples for FastAPI, Flask and a Cloudflare Worker, the iPhone Shortcut generator and the test suite.
 
 Requirements: Python 3.10 or newer, standard library only. Exporting from Apple Notes and signing the Shortcut need macOS; everything else runs anywhere. The Worker example needs a Cloudflare account.
 
